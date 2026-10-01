@@ -1,0 +1,7 @@
+[
+  { "query": "how do I roll back a bad release", "expect": "fixtures/runbook.md#1" },
+  { "query": "what happens to database migrations on rollback", "expect": "fixtures/runbook.md#1" },
+  { "query": "when is the on-call engineer paged", "expect": "fixtures/runbook.md#2" },
+  { "query": "how soon must a post-mortem be written", "expect": "fixtures/runbook.md#3" },
+  { "query": "which image tag does the pipeline publish", "expect": "fixtures/runbook.md#0" }
+]
