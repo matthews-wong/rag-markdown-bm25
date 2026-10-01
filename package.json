@@ -1,0 +1,12 @@
+{
+  "name": "rag-markdown-bm25",
+  "version": "0.1.0",
+  "description": "Heading-aware markdown chunking and BM25 retrieval with source citations",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "eval": "node scripts/eval.js"
+  }
+}
